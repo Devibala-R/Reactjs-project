@@ -1,0 +1,14 @@
+.result{
+    height:100vh;
+    display: grid;
+    place-items: center;
+    
+}
+.result-box{
+    padding: 30px;
+    text-align: center;
+    background-color: #44d1c5;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px 0 black;
+    margin:20px;
+}
